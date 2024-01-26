@@ -9,3 +9,9 @@
     display: flex;
     justify-content: center;
 }
+@media(max-width:780px){
+    .p1{
+        font-size: small;
+        width: 300px;
+    }
+}

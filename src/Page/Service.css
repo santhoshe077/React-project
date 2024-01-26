@@ -16,3 +16,15 @@
     border-radius: 8px;
     width: 300px;
 }
+@media(max-width:780px)
+{
+    .service{
+    grid-template-columns: repeat(2,2fr);
+    }
+    .service-item{
+        width:50px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+}

@@ -15,7 +15,8 @@ export default function Layout() {
         <Outlet/>
         <br></br>
         <br></br>
-        <img className='img' src='kec.jpg'></img>
+        <div className='place'><img className='img' src='kec.jpg' alt='img'></img></div>
+        
 
         
     </div>
